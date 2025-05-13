@@ -1,0 +1,8 @@
+https://bookverse-newproject-backend.onrender.com
+NEXT_PUBLIC_API_URL
+
+18.17.1
+NODE_VERSION
+
+3000
+PORT
